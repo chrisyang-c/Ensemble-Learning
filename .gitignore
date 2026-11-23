@@ -1,3 +1,11 @@
 .DS_Store
 .Rhistory
 .Rproj.user/
+
+# 本機參考檔，不上傳
+*.pptx
+*.r
+/ball.txt
+第七週 ANN/
+繳交_集成學習.zip
+GitHub截圖_*.png
