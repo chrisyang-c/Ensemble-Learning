@@ -1,0 +1,4 @@
+"Model","MSE","RMSE","R2"
+"Regression Tree (CART)",0.2325,0.4822,0.7007
+"Random Forest (Bagging)",0.1778,0.4217,0.7711
+"XGBoost (Boosting)",0.1827,0.4274,0.7648
